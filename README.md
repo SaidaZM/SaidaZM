@@ -81,7 +81,7 @@
 
 ### **Microcontrollers**
 - Arduino  
-- STM32 (F1, F4 series)
+- STM32 
 
 ---
 
